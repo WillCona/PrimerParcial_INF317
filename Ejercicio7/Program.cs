@@ -1,3 +1,6 @@
+﻿using System.Collections; 
+using System; 
+using System.Threading; 
 class Program
 {
     // Declaración de una variable pública 'suma' para acumular la aproximación de PI/4.
